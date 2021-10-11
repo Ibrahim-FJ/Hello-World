@@ -1,4 +1,7 @@
 Hello...my name is Ibrahim Alfaifi.
 I'm learning kotlin in tuwaiq bootcamp.
 
+
+
+My Education : Bachelor's Degree in Chemical Engineering.
 Thank you..
